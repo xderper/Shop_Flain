@@ -1,0 +1,48 @@
+{
+    "TOKEN":"5581283557:AAGJibdTtVaYsF2DuXxvuYnWPNhfFGqlXpg",
+    "admin-panel":"-4048843086",
+    "admin-id": "1282411670",
+    "stop-bot": "Бот остановлен by admin artemka_os",
+    "Start-message":"Приветствую в магазине Flain!",
+    "buttons": ["Каталог", "Помощь", "Новости", "Отзывы"],
+    "help-url": "За помощью обращаться -> @artemka_os",
+    "news-url": "https://t.me/AverangPUBG2",
+    "reviews-url": "https://t.me/+ClIC3Lkyxjw5NDI6",
+    "choose-option-text": "Выберите категорию товара",
+    "catalog-text": "Каталог",
+    "choose-price-list": "Выберите количество",
+    "props-true-text": "Оплатил",
+    "payment-wait": "Спасибо за оплату ожидайте",
+    "payment-true-admin": "Оплата принята",
+    "payment-false": "Вам отказано в оплате! За всеми вопросами -> @artemka_os",
+    "payment-false-admin": "Оплата отклонена",
+    "payment-true": "Ваш товар на аккаунте",
+    "incorrect-update": "Я тебя не понял :(",
+    "games":[
+        {
+            "name": "Pubg Mobile",
+            "option": ["Unknown Cash"],
+            "price-list":[
+                [325, 479],
+                [720, 889],
+                [1075, 1839],
+                [1444, 2049],
+                [1800, 2399],
+                [1950, 2499],
+                [3850, 4499],
+                [8100, 8199]
+            ],
+            "currency": "UC",
+            "props-text-start": "К оплате:",
+            "props-text-end": "\nРеквизиты для оплаты: \n\nСбербанк - 2202206717035385 (Артем О.) \nСбербанк(СБП) - 89199980676 (Артем О.) \nQiwi - 4890494798197265 (Александра В.) \nQiwi(СБП) - 89199980676 (Александра В.)",
+            "get-id": "Введите ID (Pubg)",
+            "get-photo": "Отправьте фото чека",
+            "id-incorrect": "ID неверен",
+            "photo-incorrect": "Это не чек!"
+        }
+    ]
+
+}
+
+
+ 
